@@ -1,0 +1,2 @@
+- name: gitflow-action
+  uses: Logerfo/gitflow-action@0.0.4
