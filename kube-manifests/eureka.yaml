@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
         - name: eureka
-          image: registry.digitalocean.com/pet-project/eureka:latest
+          image: otymkovskyi/eureka:latest
           ports:
             - containerPort: 8080
           env:
